@@ -1,0 +1,4 @@
+Primary Key=> ZtPGvne3d1XBgKz1VFHh52XxVmq0ybPLpNpwmUAxumQ=
+Secondary Key=> MzsM+z0IjgsrI2YtxaYASvyEHxZpU7/AYD9nrkZYRAE=
+Primary Connection String=> Endpoint=sb://mylearningapp.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=ZtPGvne3d1XBgKz1VFHh52XxVmq0ybPLpNpwmUAxumQ=
+Secondary Connection String=> Endpoint=sb://mylearningapp.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=MzsM+z0IjgsrI2YtxaYASvyEHxZpU7/AYD9nrkZYRAE=
